@@ -1,0 +1,2 @@
+# Algoritmo_Enumeracion_exhaustiva---Python
+Este es el famoso metodo llamado “Fuerza Bruta”, es el peor algorithmo de todos, aunque el tiene razon al decir que las computadoras tienen un gran poder de computo, imagina si tienes que hacer esa consulta miles de veces en un minuto, ahi es donde en CS, se mira la manera de utilizar mejores algoritmos para mejorar los tiempos y recursos del sistema, basado en parametros de “Time Complexity” y “Space Complexity”
